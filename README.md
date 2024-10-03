@@ -4,7 +4,7 @@
 
 </div>
 
-# 💫 About Me:
+# About Me:
 I have a Bachelor's degree in Computer Engineering with a focus on Android app development. 
 I primarily use Kotlin and Java and have been building applications independently using technologies such as Dagger Hilt, Retrofit, and MVVM architecture.
 
